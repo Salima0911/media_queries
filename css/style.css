@@ -1,0 +1,27 @@
+.zone-adaptative{
+  background: rgb(248, 2, 2);
+   height: 80px;
+   width: 100%;
+}
+@media screen and (min-width: 300px) and (max-width: 400px){
+  .zone-adaptative{
+    background: rgb(197, 2, 246);
+ }
+}
+@media screen and (min-width: 500px) {
+  .zone-adaptative{
+    background: rgb(2, 2, 246);
+   
+}
+
+}
+@media screen and (min-width: 1440px) {
+  .zone-adaptative{
+    background: rgb(22, 246, 2);
+   
+}
+}
+
+
+
+
